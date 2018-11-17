@@ -1,7 +1,7 @@
 #Define objects in the function!!
 ##BRAKESARESWEET#
 mkdir c:\kruse\Verbose_Messages
-##################################################Function_START#############################################################
+##################################################Function_START############################################################
 function Get-Net_Card_Mac
 {#Function Start
 #Remove-Item C:\kruse\18f-SUCCESSFUL_MacAdress_Search.txt
